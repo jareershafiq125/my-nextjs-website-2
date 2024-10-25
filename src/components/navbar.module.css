@@ -1,0 +1,35 @@
+.home{
+    border: 1px solid black;
+    outline-style: solid;
+    outline-color: red;
+    outline-width: thin;
+   color: blue;
+ float: left;
+ padding: 20px;
+ outline: thick ridge red;
+}
+
+
+.contact{
+    border: 1px solid black;
+    outline-style: solid;
+    outline-color: red;
+    outline-width: thin;
+   color: blue;
+    color: blue;
+ float: left;
+ padding: 20px;
+ outline: thick ridge red;
+}
+.about{
+    border: 1px solid black;
+    outline-style: solid;
+    outline-color: red;
+    outline-width: thin;
+    outline: thick ridge red;
+   color: blue;
+    color: blue;
+   float: left;
+   padding: 20px;
+
+}
